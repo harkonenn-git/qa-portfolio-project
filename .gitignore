@@ -1,2 +1,10 @@
-# Ignore all test report files
+# IDE and editor files
+.idea/
+*.bak
+
+# Python compiled files and cache
+__pycache__/
+*.pyc
+
+# Test reports (optional but recommended)
 reports/
